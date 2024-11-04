@@ -43,7 +43,6 @@ def ReLu(arr, cutoff=0):
 
 # -----------------------------------------------
 
-
 # Task 3:
 # Instructions:
 #Write a function that takes in a two-dimensional numpy array of size (n, p) and a one-dimensional numpy array of size p.
